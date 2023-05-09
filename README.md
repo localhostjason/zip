@@ -4,7 +4,7 @@
 fork: https://github.com/alexmullins/zip
 
 zip 加密多个文件 加密算法支持： 
-- 标准加密
+- 标准加密 （新增）
 - AES
 
 
