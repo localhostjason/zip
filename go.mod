@@ -1,4 +1,4 @@
-module git.s/zhangjie/zip
+module github.com/localhostjason/zip
 
 go 1.20
 

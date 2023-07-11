@@ -22,7 +22,7 @@ package main
 import (
 	"errors"
 	"fmt"
-	"git.s/zhangjie/zip"
+	"github.com/localhostjason/zip"
 	"io"
 	"os"
 	"path"
